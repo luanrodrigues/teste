@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">beedeliveryapp</string>
+    <string name="account_type">com.beedeliveryapp.account</string>
+    <string name="content_authority">com.beedeliveryapp.authority</string>
+</resources>
